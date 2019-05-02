@@ -14,4 +14,10 @@ See my [kattis profile](https://open.kattis.com/users/seah-xi-qi-nicholas).
 |[Bard](https://open.kattis.com/problems/bard)| [C++](./solutions/bard.cpp)| 2.7 |
 |[Bela](https://open.kattis.com/problems/bela)| [C++](./solutions/bela.cpp)| 1.3|
 |[Booking a Room](https://open.kattis.com/problems/bookingaroom)| [C++](./solutions/bookingaroom.cpp)| 1.7|
+|[CD](https://open.kattis.com/problems/cd)| [C++](./solutions/cd.cpp)| 3.8|
+|[Ceiling Function](https://open.kattis.com/problems/ceiling)| [C++](./solutions/ceiling.cpp)| 1.8|
+|[Compound Words](https://open.kattis.com/problems/compoundwords)| [C++](./solutions/compoundwords.cpp)| 1.6|
+|[Conformity](https://open.kattis.com/problems/conformity)| [C++](./solutions/conformity.cpp)| 2.8|
+|[Conversation Log](https://open.kattis.com/problems/conversationlog)| [C++](./solutions/conversationlog.cpp)| 2.8|
+|[Counting Stars](https://open.kattis.com/problems/countingstars)| [C++](./solutions/countingstars.cpp)| 2.4|
 
